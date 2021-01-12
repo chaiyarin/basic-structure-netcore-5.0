@@ -1,0 +1,42 @@
+weatherForecast/*.swp
+weatherForecast/*.*~
+weatherForecast/project.lock.json
+weatherForecast/.DS_Store
+weatherForecast/*.pyc
+weatherForecast/nupkg/
+
+# Visual Studio Code
+weatherForecast/.vscode
+
+# Rider
+weatherForecast/.idea
+
+# User-specific files
+weatherForecast/*.suo
+weatherForecast/*.user
+weatherForecast/*.userosscache
+weatherForecast/*.sln.docstates
+
+# Build results
+weatherForecast/[Dd]ebug/
+weatherForecast/[Dd]ebugPublic/
+weatherForecast/[Rr]elease/
+weatherForecast/[Rr]eleases/
+weatherForecast/x64/
+weatherForecast/x86/
+weatherForecast/build/
+weatherForecast/bld/
+weatherForecast/[Bb]in/
+weatherForecast/[Oo]bj/
+weatherForecast/[Oo]ut/
+weatherForecast/msbuild.log
+weatherForecast/msbuild.err
+weatherForecast/msbuild.wrn
+
+# Visual Studio 2015
+weatherForecast/.vs/
+
+weatherForecast.Test/bin
+weatherForecast.Test/obj
+weatherForecast.IntegrationTest/bin
+weatherForecast.IntegrationTest/obj
